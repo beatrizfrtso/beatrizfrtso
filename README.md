@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beatrizfrtso
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning c# and .NET
+- 🌱 I’m currently learning C# and .NET
 - 💞️ I’m looking to collaborate on creative things
 - 📫 How to reach me https://www.linkedin.com/in/ana-beatriz-freitas-oliveira
 
